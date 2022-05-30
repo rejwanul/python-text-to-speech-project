@@ -1,4 +1,4 @@
-# python text to speech project
+# Python text to speech project
 =>First need to install Text to Speech in terminal
 =>install Command:
     pip install pyttsx3
